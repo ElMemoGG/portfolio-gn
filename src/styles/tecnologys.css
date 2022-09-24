@@ -1,0 +1,30 @@
+
+
+ .item {
+
+    width: 200px;
+    height:  200px;
+    padding: 40px;
+}
+
+.item img {
+    width: 200px;
+    height: 200px;
+    pointer-events: none;
+}
+
+.inner-carrousel {
+    display: flex;
+}
+.carrousel {
+    cursor: grab;
+    overflow: hidden;
+
+}
+.content {
+    display: flex;
+    height: 100%;
+
+    align-items: center;
+
+}
