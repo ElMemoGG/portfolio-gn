@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-gn/static/css/main.a8b2d3d7.css",
+    "main.css": "/portfolio-gn/static/css/main.37a826ff.css",
     "main.js": "/portfolio-gn/static/js/main.aa7d1a8a.js",
     "static/media/wallhaven-2eroxm_1920x1080.png": "/portfolio-gn/static/media/wallhaven-2eroxm_1920x1080.6ee8de96f2cfa6f14270.png",
     "static/media/wallhaven-m965vm_1920x1080.png": "/portfolio-gn/static/media/wallhaven-m965vm_1920x1080.dfa6b24cf64492999322.png",
@@ -22,11 +22,11 @@
     "static/media/reactlogo.png": "/portfolio-gn/static/media/reactlogo.44319306359c7112276d.png",
     "static/media/cshare.png": "/portfolio-gn/static/media/cshare.8c48f083639f75a17356.png",
     "index.html": "/portfolio-gn/index.html",
-    "main.a8b2d3d7.css.map": "/portfolio-gn/static/css/main.a8b2d3d7.css.map",
+    "main.37a826ff.css.map": "/portfolio-gn/static/css/main.37a826ff.css.map",
     "main.aa7d1a8a.js.map": "/portfolio-gn/static/js/main.aa7d1a8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8b2d3d7.css",
+    "static/css/main.37a826ff.css",
     "static/js/main.aa7d1a8a.js"
   ]
 }
