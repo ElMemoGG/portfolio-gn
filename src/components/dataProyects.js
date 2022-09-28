@@ -24,7 +24,7 @@ export const data = [
             appChat5,
       
         ],
-        description: "Entre uno de los proyectos que desarrolle en la universidad se encuentra la appchat la cual es una aplicación de mensajería instantánea desarrollada en java y utilizando firebase como la base de datos"
+        description: "Entre uno de los proyectos que desarrollé en la universidad se encuentra la appchat la cual es una aplicación de mensajería instantánea desarrollada en java y firebase como la base de datos."
         
     },
     {
@@ -37,7 +37,7 @@ export const data = [
             compresor3,
 
         ],
-        description: "CropSize es un pequeño proyecto que desarrolle para la creación de un componente, el cual su principal objetivo es hacer un recorte y editar parámetros básicos como la rotación y acercamiento a una imagen para al final hacerle una compresión y dejarla lista para mandarla a algún servidor "
+        description: "CropSize es un pequeño proyecto que desarrollé para la creación de un componente, el cual su principal objetivo es hacer un recorte y editar parámetros básicos como la rotación y acercamiento a una imagen, además de comprimirla y dejarla lista para subirla a algún servidor. "
         
     },
     {
@@ -49,7 +49,7 @@ export const data = [
             piano1,
    
         ],
-        description: "Magic Piano es una aplicación que desarrolle en el aprendizaje de unity y c# su uso es como su nombre lo indica “un simple piano”"
+        description: "Magic Piano es una aplicación que desarrollé en el aprendizaje de unity y c# su uso es como su nombre lo indica “un simple piano”"
         
     }
 

@@ -1,0 +1,110 @@
+.contact-container{
+    /* border: 1px solid blue; */
+    margin: 25px 100px 0  100px;
+    display: flex;
+  
+    
+    
+}
+
+.line{
+    border-top: 1px solid #fff;
+    height: 2px;
+    padding: 0;
+    margin: 30px 100px 0  100px;
+}
+
+.icon-container{
+    /* border: 1px solid red; */
+    width: 50%;
+
+
+
+}
+
+.icon-container ul{
+    list-style: none;
+}
+.li-c{
+    margin: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.li-c i{
+    color: #fff;
+    font-size: 40px;
+   
+
+}
+.li-c h2{
+    display: inline-block;
+    color: #fff;
+    margin-left: 12px;
+
+}
+
+
+.action a{
+    text-decoration: none;
+}
+
+
+.other-container{
+    /* border: 1px solid purple; */
+    width: 50%;
+
+}
+
+
+.other-action{
+    color: #fff;
+    padding: 8px 0 8px 16px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+
+.other-li{
+    margin: 8px 0px;
+}
+
+.button-dow {
+    color: #fff;
+    background-color: rgb(33, 199, 199);
+    
+    padding: 8px 16px;
+    border-radius: 16px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;  
+    border: none;
+    cursor: pointer;   
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+@media screen and (max-width: 600px)  {
+    .contact-container{
+        margin: 0px;
+        width: 100%;
+        flex-direction: column;
+
+    }
+    .icon-container{
+        width: 90%;
+       
+        margin: auto;
+    }
+    .other-container{
+        width: 90%;
+        margin: auto;
+    }
+    .other-action{
+        padding: 8px 0px;
+    }
+    .line{
+        margin: 30px 2vh 0  2vh;
+    }
+}

@@ -4,6 +4,21 @@ import image from "../imgs/technologysLogos/image";
 import "../styles/tecnologys.css";
 import { motion } from "framer-motion";
 
+const cardVariants = {
+	offscreen: {
+	  x: "-100vw"
+	},
+	onscreen: {
+	  x: 0,
+	   /* rotate: "360deg", */
+	  transition: {
+		type: "spring",
+		bounce: 0.4,
+		duration: 0.8
+	  }
+	}
+  };
+
 const Tecnologys = () => {
     const [width, setWith]= useState(0)
     const carousel = useRef();
@@ -13,8 +28,14 @@ const Tecnologys = () => {
     },[])
 
   return (<> 
-  
-    <div className="content">
+    <motion.div
+        initial="offscreen"
+      
+        whileInView="onscreen"
+        viewport={{ once: true, amount: 0.8 }}>
+
+    
+    <motion.div className="content" variants={cardVariants}> 
      
     <motion.div ref={carousel} className="carrousel">
       <motion.div 
@@ -29,7 +50,8 @@ const Tecnologys = () => {
         })}
       </motion.div>
     </motion.div>
-    </div>
+    </motion.div>
+    </motion.div>
     </>
   );
 };

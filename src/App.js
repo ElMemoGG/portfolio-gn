@@ -11,9 +11,8 @@ function App() {
   return (
     <div className="App">
       <section className='home' id="home">
-          <Navbar />
-          <HomeTitle/>
-
+        <Navbar />
+        <HomeTitle/>
       </section>
       <section className='about' id="formacion">
       <h2 className="tec-title">Formación</h2>
@@ -25,11 +24,12 @@ function App() {
       </section>
       <section className='proyects'  id="proyects">
       <h2 className="tec-title">Proyectos</h2>
-      <Proyects/>
+        <Proyects/>
       </section>
       <section className='footer'  id="contact">
       <h2 className="tec-title">Contacto</h2>
-      <Contact/>
+        <Contact/>
+        
       </section>
       
     </div>

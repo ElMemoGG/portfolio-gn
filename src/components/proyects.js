@@ -12,6 +12,20 @@ const backdrop = {
     opacity: 1,
   },
 };
+const cardVariants = {
+	offscreen: {
+	  x: "-100vw"
+	},
+	onscreen: {
+	  x: 0,
+	   /* rotate: "360deg", */
+	  transition: {
+		type: "spring",
+		bounce: 0.4,
+		duration: 0.8
+	  }
+	}
+  };
 
 const Proyects = () => {
   const [width, setWith] = useState(0);
@@ -23,7 +37,12 @@ const Proyects = () => {
   const [selectedId, setSelectedId] = useState(null);
 
   return (
-    <>
+    <motion.div
+    /* initial="offscreen"
+      
+    whileInView="onscreen"
+    viewport={{ once: true, amount: 0.8 }} */>
+       <motion.div var/* iants={cardVariants} */>
       <motion.div className="container-proyect" ref={carousel}>
         <motion.div
           drag="x"
@@ -72,7 +91,8 @@ const Proyects = () => {
           )}
         </AnimatePresence>
       </motion.div>
-    </>
+      </motion.div>
+    </motion.div>
   );
 };
 

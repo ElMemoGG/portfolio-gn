@@ -16,7 +16,7 @@ const Navbar = () => {
         className="nav-container">
 
         <nav className="NavbarItems">
-            <h1 className="navbar-logo">Portafolio <i className="fab fa-react"></i> </h1>
+            <h1 className="navbar-logo">Portafolio {/* <i className="fab fa-react"></i> */}  </h1>
             <div className="menu-icon" onClick={()=> setClick(!click)}>
                 <i className={click ? "fas fa-times": "fas fa-bars"}></i>
             </div>
