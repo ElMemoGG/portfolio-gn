@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio-gn/static/css/main.37a826ff.css",
-    "main.js": "/portfolio-gn/static/js/main.aa7d1a8a.js",
+    "main.js": "/portfolio-gn/static/js/main.cb207278.js",
     "static/media/wallhaven-2eroxm_1920x1080.png": "/portfolio-gn/static/media/wallhaven-2eroxm_1920x1080.6ee8de96f2cfa6f14270.png",
     "static/media/wallhaven-m965vm_1920x1080.png": "/portfolio-gn/static/media/wallhaven-m965vm_1920x1080.dfa6b24cf64492999322.png",
     "static/media/compresor2.PNG": "/portfolio-gn/static/media/compresor2.8d2115cc37dc4a2c4fb4.PNG",
     "static/media/compresor3.PNG": "/portfolio-gn/static/media/compresor3.71f2786cb2e4d56bb8d8.PNG",
-    "static/media/CV-Guillermo-Emanuel-Navarro-García.pdf": "/portfolio-gn/static/media/CV-Guillermo-Emanuel-Navarro-García.1bc6e4c0fd855e5b940e.pdf",
+    "static/media/CV-Guillermo-Emanuel-Navarro-García.pdf": "/portfolio-gn/static/media/CV-Guillermo-Emanuel-Navarro-García.59a5c8358e3c3cb34681.pdf",
     "static/media/2048px-HTML5_logo_and_wordmark.svg.png": "/portfolio-gn/static/media/2048px-HTML5_logo_and_wordmark.svg.5f77e90e11607bf9b3e1.png",
     "static/media/appChat2.jpg": "/portfolio-gn/static/media/appChat2.3517b337d5c8312837d2.jpg",
     "static/media/java.png": "/portfolio-gn/static/media/java.9ee7aba7183c39bf5ae2.png",
@@ -23,10 +23,10 @@
     "static/media/cshare.png": "/portfolio-gn/static/media/cshare.8c48f083639f75a17356.png",
     "index.html": "/portfolio-gn/index.html",
     "main.37a826ff.css.map": "/portfolio-gn/static/css/main.37a826ff.css.map",
-    "main.aa7d1a8a.js.map": "/portfolio-gn/static/js/main.aa7d1a8a.js.map"
+    "main.cb207278.js.map": "/portfolio-gn/static/js/main.cb207278.js.map"
   },
   "entrypoints": [
     "static/css/main.37a826ff.css",
-    "static/js/main.aa7d1a8a.js"
+    "static/js/main.cb207278.js"
   ]
 }
