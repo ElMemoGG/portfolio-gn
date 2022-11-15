@@ -46,7 +46,7 @@ const TimeLine = () => {
 	<motion.div className="timeline-item" date-is='Enero 2022 – Septiembre 2022' variants={cardVariants}>
 		<h1>Experiencia</h1>
 		<p>
-			Realize mi residencia en la empresa Code Nation Studio desde enero del 2022 hasta la fecha en el área del front-end usando react.
+		Realicé mi residencia en la empresa Code Nation Studio desde enero del 2022 hasta la fecha en el área de front-end, he estado trabajando con react para desarrollar un sistema administrativo de inventario y un sistema de catálogo en una aplicación web, durante mi residencia y hasta la fecha se utilizó scrum como metodología ágil.
 		</p>
 	</motion.div>
 	
