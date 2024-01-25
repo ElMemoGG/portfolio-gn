@@ -6,8 +6,9 @@ import image5 from "./java.png"
 import image6 from "./cshare.png"
 import image7 from "./c+.png"
 import image8 from "./mysql.png"
+import image9 from "./spring-boot-logo.png"
 
 
 
 
-export default [image1, image2, image3, image4, image5, image6, image7, image8]
+export default [image1, image2, image3, image4, image5, image6, image7, image8, image9]
