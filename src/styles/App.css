@@ -34,13 +34,18 @@
 .title {
   color: #fff;
   margin: 0px 10vw;
-  font-size: 34px;
+  font-size: 36px;
 }
 .info{
   max-width: 400px;
   margin: 16px 10vw;
   color: #fff;
-  font-size: 14px;
+  font-size: 18px;
+}
+.info a {
+  
+  color:#fff;
+  font-family: inherit;
 }
 
 .about {
