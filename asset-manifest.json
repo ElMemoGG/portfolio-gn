@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-gn/static/css/main.37a826ff.css",
-    "main.js": "/portfolio-gn/static/js/main.cb207278.js",
+    "main.css": "/portfolio-gn/static/css/main.0c01f906.css",
+    "main.js": "/portfolio-gn/static/js/main.bc68744e.js",
     "static/media/wallhaven-2eroxm_1920x1080.png": "/portfolio-gn/static/media/wallhaven-2eroxm_1920x1080.6ee8de96f2cfa6f14270.png",
     "static/media/wallhaven-m965vm_1920x1080.png": "/portfolio-gn/static/media/wallhaven-m965vm_1920x1080.dfa6b24cf64492999322.png",
     "static/media/compresor2.PNG": "/portfolio-gn/static/media/compresor2.8d2115cc37dc4a2c4fb4.PNG",
     "static/media/compresor3.PNG": "/portfolio-gn/static/media/compresor3.71f2786cb2e4d56bb8d8.PNG",
-    "static/media/CV-Guillermo-Emanuel-Navarro-García.pdf": "/portfolio-gn/static/media/CV-Guillermo-Emanuel-Navarro-García.59a5c8358e3c3cb34681.pdf",
+    "static/media/CV-Guillermo-Emanuel-Navarro-García.pdf": "/portfolio-gn/static/media/CV-Guillermo-Emanuel-Navarro-García.39b5043f21009bb3c941.pdf",
     "static/media/2048px-HTML5_logo_and_wordmark.svg.png": "/portfolio-gn/static/media/2048px-HTML5_logo_and_wordmark.svg.5f77e90e11607bf9b3e1.png",
     "static/media/appChat2.jpg": "/portfolio-gn/static/media/appChat2.3517b337d5c8312837d2.jpg",
     "static/media/java.png": "/portfolio-gn/static/media/java.9ee7aba7183c39bf5ae2.png",
@@ -17,16 +17,17 @@
     "static/media/piano2.jpg": "/portfolio-gn/static/media/piano2.8cde6c72b0c5227aa1bd.jpg",
     "static/media/piano1.jpg": "/portfolio-gn/static/media/piano1.537a455d8f4a267584e1.jpg",
     "static/media/js.png": "/portfolio-gn/static/media/js.b91befe092cbe22167f1.png",
+    "static/media/spring-boot-logo.png": "/portfolio-gn/static/media/spring-boot-logo.94f201ce44348763e6a5.png",
     "static/media/appChat3.jpg": "/portfolio-gn/static/media/appChat3.5f92b8b76584bdba32e1.jpg",
     "static/media/appChat1.jpg": "/portfolio-gn/static/media/appChat1.710682740654f4991617.jpg",
     "static/media/reactlogo.png": "/portfolio-gn/static/media/reactlogo.44319306359c7112276d.png",
     "static/media/cshare.png": "/portfolio-gn/static/media/cshare.8c48f083639f75a17356.png",
     "index.html": "/portfolio-gn/index.html",
-    "main.37a826ff.css.map": "/portfolio-gn/static/css/main.37a826ff.css.map",
-    "main.cb207278.js.map": "/portfolio-gn/static/js/main.cb207278.js.map"
+    "main.0c01f906.css.map": "/portfolio-gn/static/css/main.0c01f906.css.map",
+    "main.bc68744e.js.map": "/portfolio-gn/static/js/main.bc68744e.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a826ff.css",
-    "static/js/main.cb207278.js"
+    "static/css/main.0c01f906.css",
+    "static/js/main.bc68744e.js"
   ]
 }
